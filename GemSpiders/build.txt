@@ -1,0 +1,3 @@
+displayName = Gemstone Spiders For Terraria
+author = Coendu
+version = 0.1
